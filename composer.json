@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "phpspec/phpspec": "2.0.*"
+        "phpspec/phpspec": "~2.1@dev"
     },
     "autoload": {
         "psr-4": { "Cordoval\\BestPractices\\PhpSpec\\": ""}
