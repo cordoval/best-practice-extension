@@ -1,0 +1,24 @@
+{
+    "name": "cordoval/best-practice-extension",
+    "description": "best practices phpspec extension",
+    "license": "MIT",
+    "keywords": ["phpspec", "extension", "best", "practice"],
+    "authors": [
+        {
+            "name": "Luis Cordova",
+            "email": "cordoval@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "phpspec/phpspec": "2.0.*"
+    },
+    "autoload": {
+        "psr-4": { "Cordoval\\BestPractices\\PhpSpec\\": ""}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
