@@ -16,3 +16,8 @@ extensions:
 ```
 
 Disclaimer: Is very opinionated and used in production.
+
+Some enhancements to this extension come from discussions and ideas from the issues
+on phpspec github repository:
+
+- final class enforcing (https://github.com/phpspec/phpspec/pull/339)
